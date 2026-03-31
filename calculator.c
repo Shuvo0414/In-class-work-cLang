@@ -2,7 +2,7 @@
 
 int main (){
 
-    // calculator.
+    // calculator for simple arithmetic operation.
 
      int x, y; 
      char opration ; // opration for +,_,*,/ 
