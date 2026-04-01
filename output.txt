@@ -1,2 +1,2 @@
-Enter the three side lenght of the truangle
-The side length do not form a valid triangle
+Old enough to vote
+But you must be a citizen to vote
