@@ -1,2 +1,1 @@
-int i = 1 ;
-    printf("%d %d %d",i,i++,++i);
+securityLevel
