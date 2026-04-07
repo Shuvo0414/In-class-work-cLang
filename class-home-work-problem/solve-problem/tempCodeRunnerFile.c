@@ -1,0 +1,1 @@
+1.Calculate the area of a circle,2.Calculate the area of a square.
