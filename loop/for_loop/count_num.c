@@ -1,14 +1,13 @@
 #include <stdio.h>
 int main()
 {
-    int i, factor = 1, n;
+    int i, n, mul = 1;
     scanf("%d", &n);
-
     for (i = 1; i <= n; i++)
     {
-        factor = i * 2;
-        printf("2*%d = %d\n", i, factor);
+        mul*=2;
+        printf("%d\n", mul);
     }
-    
+
     return 0;
 }
